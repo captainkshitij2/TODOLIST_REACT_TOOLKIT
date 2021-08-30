@@ -13,36 +13,30 @@
   text-shadow: 30px;
 }
 
-.op{
+.op {
   background-color: #42fbf2;
   font-weight: 10px;
   font-size: 18px;
- text-align: center;
-
+  text-align: center;
 }
-.opo{
-  background-color:#fd79a8;
+.opo {
+  background-color: #fd79a8;
   font-weight: 10px;
   font-size: 18px;
- text-align: center;
-
+  text-align: center;
 }
 
-.oppo{
-  background-color:#3ae374;
+.oppo {
+  background-color: #3ae374;
   font-weight: 10px;
   font-size: 18px;
- text-align: center;
-
+  text-align: center;
 }
 
-.opy{
+.opy {
   object-position: center;
   margin-left: 725px;
 }
-
-
-
 
 .task {
   font-size: 30px;
@@ -68,7 +62,7 @@
 }
 
 .plus:hover {
-  color: #e8bd0d;
+  color: #ff7675;
   cursor: pointer;
 }
 
@@ -90,4 +84,9 @@
   right: 0;
   opacity: 1;
   z-index: -1;
+}
+
+.oppo1 {
+  margin-left: 200px;
+  font-size: 20px;
 }
